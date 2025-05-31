@@ -1,3 +1,6 @@
+#This Script is for the Reaction Time Test on Human Benchmark
+#Make sure you have nothing on your screen other than the Test
+
 import mss
 import pyautogui
 import numpy as np

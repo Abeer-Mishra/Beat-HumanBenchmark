@@ -1,3 +1,6 @@
+#This Script tell your pointer location and give you a rectangle.
+# Used to Change the dimensions in Monitor dict which is located in other scripts that use mss library
+
 import pyautogui
 import time
 

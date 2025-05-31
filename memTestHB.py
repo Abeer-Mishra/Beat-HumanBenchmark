@@ -1,3 +1,7 @@
+#This script is for the Visual Memory Test on the Human Benchmark Website
+#Use the screenLocaton.py Script to change the screenshot area that suits your screen
+#Under Development
+
 import mss
 import pyautogui
 import numpy as np
