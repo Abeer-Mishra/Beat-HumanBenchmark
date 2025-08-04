@@ -1,5 +1,5 @@
 #This Script is for the Aim Trainer on the HumanBenchmark Website
-#The detection area is tuned in but you can change it to your liking
+#The detection area is tuned in, but you can change it to your liking
 
 import mss
 import pyautogui
